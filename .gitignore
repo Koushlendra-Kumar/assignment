@@ -1,0 +1,30 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+*.out
+
+# dotenv environment variables file
+.env
+
+# macOS metadata
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+
+# Tests
+coverage/
+.nyc_output/
